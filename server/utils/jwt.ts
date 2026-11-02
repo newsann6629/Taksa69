@@ -56,5 +56,6 @@ export function verifyToken(event: H3Event): AuthUser {
         statusMessage: "invalid or expired token",
     })
 }
+
 } 
 
